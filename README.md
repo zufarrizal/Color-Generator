@@ -20,4 +20,4 @@ You can contribute to the development of Color-Generator by creating an account 
 The license has not been determined. For more information, please contact the repository owner.
 
 ## Demo
-<a href="https://zufarrizal.github.io/color-generator/"> Visit Demo Site</a>
+<a href="https://zufarrizal.github.io/Color-Generator/"> Visit Demo Site</a>
