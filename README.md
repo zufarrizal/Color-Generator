@@ -17,7 +17,7 @@ Color-Generator is a simple application that generates colors. Just open the app
 You can contribute to the development of Color-Generator by creating an account on GitHub and forking this repository.
 
 ## License
-The license has not been determined. For more information, please contact the repository owner.
+The license <a href="https://github.com/zufarrizal/Color-Generator?tab=MIT-1-ov-file">license agreement</a>.
 
 ## Demo
 <a href="https://zufarrizal.github.io/Color-Generator/"> Visit Demo Site</a>
